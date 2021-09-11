@@ -12,6 +12,7 @@ public class App {
         System.out.println(new App().getGreeting());
         System.out.println("test");
         System.out.println("test");
-       
+        
+        	System.out.println("momo");
     }
 }
